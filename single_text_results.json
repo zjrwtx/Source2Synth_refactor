@@ -1,0 +1,61 @@
+[
+  {
+    "text": "The invention of transistors revolutionized electronics in the 1950s. \n        These tiny semiconductor devices enabled the development of smaller and more \n        efficient computers. The miniaturization of computers led to the creation of \n        personal computers in the 1980s, which transformed how people work and communicate. \n        This digital revolution eventually gave rise to the internet, connecting billions \n        of people worldwide. Today, this interconnected network powers artificial \n        intelligence systems that are reshaping various industries.",
+    "qa_pairs": [
+      {
+        "question": "How did the invention of transistors in the 1950s ultimately lead to the widespread connectivity of billions of people worldwide?",
+        "reasoning_steps": [
+          "The invention of transistors in the 1950s enabled the development of smaller and more efficient computers.",
+          "This miniaturization of computers led to the creation of personal computers in the 1980s, which transformed how people work and communicate.",
+          "The widespread use of personal computers eventually gave rise to the internet, connecting billions of people worldwide."
+        ],
+        "answer": "The invention of transistors led to the development of personal computers, which in turn facilitated the creation of the internet, resulting in widespread connectivity of billions of people worldwide.",
+        "supporting_facts": [
+          "- \"The invention of transistors revolutionized electronics in the 1950s. These tiny semiconductor devices enabled the development of smaller and more efficient computers.\"",
+          "- \"The miniaturization of computers led to the creation of personal computers in the 1980s, which transformed how people work and communicate.\"",
+          "- \"This digital revolution eventually gave rise to the internet, connecting billions of people worldwide.\""
+        ],
+        "type": "multi_hop_qa"
+      },
+      {
+        "question": "How did the invention of transistors in the 1950s contribute to the development of the internet, which connects billions of people worldwide?",
+        "reasoning_steps": [
+          "The invention of transistors in the 1950s enabled the development of smaller and more efficient computers.",
+          "This miniaturization of computers led to the creation of personal computers in the 1980s, which transformed how people work and communicate.",
+          "The widespread use of personal computers eventually gave rise to the internet, connecting billions of people worldwide."
+        ],
+        "answer": "The invention of transistors led to the development of personal computers, which in turn facilitated the creation of the internet, resulting in widespread connectivity of billions of people worldwide.",
+        "supporting_facts": [
+          "- \"The invention of transistors revolutionized electronics in the 1950s.\"",
+          "- \"These tiny semiconductor devices enabled the development of smaller and more efficient computers.\"",
+          "- \"The miniaturization of computers led to the creation of personal computers in the 1980s, which transformed how people work and communicate.\"",
+          "- \"This digital revolution eventually gave rise to the internet, connecting billions of people worldwide.\""
+        ],
+        "type": "multi_hop_qa"
+      },
+      {
+        "question": "How did the invention of transistors in the 1950s ultimately lead to the development of artificial intelligence systems that are reshaping various industries today?",
+        "reasoning_steps": [
+          "The invention of transistors in the 1950s enabled the development of smaller and more efficient computers.",
+          "This miniaturization of computers led to the creation of personal computers in the 1980s, which transformed how people work and communicate.",
+          "The widespread use of personal computers eventually gave rise to the internet, connecting billions of people worldwide.",
+          "Today, this interconnected network powers artificial intelligence systems that are reshaping various industries."
+        ],
+        "answer": "The invention of transistors led to the development of personal computers, which facilitated the creation of the internet. This interconnected network now powers artificial intelligence systems that are reshaping various industries today.",
+        "supporting_facts": [
+          "- \"The invention of transistors revolutionized electronics in the 1950s.\"",
+          "- \"These tiny semiconductor devices enabled the development of smaller and more efficient computers.\"",
+          "- \"The miniaturization of computers led to the creation of personal computers in the 1980s, which transformed how people work and communicate.\"",
+          "- \"This digital revolution eventually gave rise to the internet, connecting billions of people worldwide.\"",
+          "- \"Today, this interconnected network powers artificial intelligence systems that are reshaping various industries.\""
+        ],
+        "type": "multi_hop_qa"
+      }
+    ],
+    "metadata": {
+      "source": "technology_evolution",
+      "timestamp": "2024-11-28 18:19:10",
+      "complexity": 0.94
+    }
+  }
+]
