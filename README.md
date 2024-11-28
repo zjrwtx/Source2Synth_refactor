@@ -175,7 +175,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - DeepSeek for providing the language model API
 - All contributors and users of this project
-
+Reference since the improvement from: https://github.com/sanowl/Source2Synth
 ## Contact
 
 For questions and feedback, please open an issue in the GitHub repository. 
