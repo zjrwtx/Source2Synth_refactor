@@ -21,8 +21,8 @@ A powerful tool for generating high-quality multi-hop question answering dataset
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/zjrwtx/Source2Synth_refactor.git
+cd Source2Synth_refactor
 ```
 
 2. Install dependencies:
