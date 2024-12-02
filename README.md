@@ -170,7 +170,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ## Acknowledgments
-
+-camel https://github.com/camel-ai/camel
 - DeepSeek for providing the language model API
 - All contributors and users of this project
 Reference since the improvement from: https://github.com/sanowl/Source2Synth
